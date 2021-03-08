@@ -1,10 +1,10 @@
 ## Synopsis
 
-This is the Jekyll based source code and assets for the Roaring Fork Technologist's group website.
+This is the Jekyll based source code and assets for the West Slope Technologist's group website.
 
 ## Motivation
 
-This project serves as an independent ( outside of Facebook, for example ) platform for supporting the Roaring Fork Technologist's mission, including the promotion and nurturing of the technological community and economy in the Roaring Fork Valley in Colorado.
+This project serves as an independent ( outside of Facebook, for example ) platform for supporting the West Slope Technologist's mission, including the promotion and nurturing of the technological community and economy on Colorado's West Slope.
 
 ## Installation
 
